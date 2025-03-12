@@ -6,17 +6,7 @@
 
 <br>
 
----
-
-<br>
-
 `DataImportClient` is a console based application, which allows to import data from various sources into a SQL database.
-
-<br>
-
-<p align="center">
-    <img style='height: 90%; width: 90%;' alt="MainMenu" src="readme-files/pictures/MainMenu.PNG"/>
-</p>
 
 <br>
 
@@ -26,6 +16,16 @@ Sources are:
  - CSV files which are received over FTP
 
 This repository is part of the diploma thesis for the organization [DigitalHtlFootprint](https://github.com/DigitalHtlFootprint).
+
+<br>
+
+---
+
+<br>
+
+<p align="center">
+    <img style='height: 90%; width: 90%;' alt="MainMenu" src="readme-files/pictures/MainMenu.PNG"/>
+</p>
 
 <br>
 
